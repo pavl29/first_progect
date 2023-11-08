@@ -1,0 +1,8 @@
+{
+	"ecsstractor_port.comment_style": "css",
+	"ecsstractor_port.brackets": true,
+	"ecsstractor_port.empty_line_before_nested_selector": false,
+	"ecsstractor_port.add_comment": false,
+	"ecsstractor_port.parent_symbol": "",
+	"ecsstractor_port.modifier_separator": ""
+}
